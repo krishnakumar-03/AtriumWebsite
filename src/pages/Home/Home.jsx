@@ -42,10 +42,10 @@ function Home() {
                 <div className='row d-flex align-items-center justify-content-around'>
                     <div className='col-lg-5'>
                         <h1 className='text-capitalize'>Our Upcoming Events</h1>
-                        <h3>Event Name:</h3><h4>Alter Ego</h4><br></br>
-                        <h3>Event Venue:</h3><h4>Main Seminar Hall</h4><br></br>
-                        <h3>Event Time:</h3><h4>3 pm to 5 pm</h4><br></br>
-                        <a href="https://forms.gle/zADi5HWjFNT5JTZh9/">
+                        <h3>Event Name:</h3><h4>-Event Name-</h4><br></br>
+                        <h3>Event Venue:</h3><h4>-Event Venue-</h4><br></br>
+                        <h3>Event Time:</h3><h4>-Event Time-</h4><br></br>
+                        <a href="#">
                             <button type='button' className='btn btn-danger btn-lg mx-0 mx-sm-2 my-2 my-sm-0'>Registration Link</button>
                         </a>
                     </div>
