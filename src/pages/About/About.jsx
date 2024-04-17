@@ -86,7 +86,7 @@ function About() {
         <header className='height-75'>
             <div className='container h-100 d-flex flex-column align-items-center justify-content-center text-light'>
                 <h1 className='text-center fw-semibold'>About Us</h1>
-                <p className='text-center w-75 mb-5'></p>
+                <p className='text-center w-75 mb-5'>As proactive members of REC Atrium, we orchestrate dynamic meetings and nurture the well-being of our club and community.</p>
             </div>
         </header>
 
