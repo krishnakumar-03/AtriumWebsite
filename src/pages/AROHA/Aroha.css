@@ -1,0 +1,24 @@
+.aroha-page header {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/events-page-header.jpg);
+    height:500px
+
+}
+
+.aroha-page .card-img-overlay {
+    background-color: rgba(255, 255, 255, 0.266);
+}
+
+.aroha-page .card:hover {
+    cursor: pointer;
+}
+.event1:hover{
+    height: 500px;
+}
+.text3{
+    
+    text-shadow: 2px 2px black;
+}
+.text4{
+    color: black;
+    text-shadow: 2px 2px red;
+}

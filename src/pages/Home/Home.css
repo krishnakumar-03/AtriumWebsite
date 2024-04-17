@@ -1,0 +1,31 @@
+.home-page header {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/home-page-header.jpg);
+}
+
+header {
+    background-size: cover;
+    background-position: center;
+}
+
+.logo{
+    height: auto;
+    width: 70%;
+}
+.upevent{
+    background-color: grey;
+    padding-top: 0.007%;
+    color:black;
+  
+}
+.about{
+    background-color: white;
+    padding-top: 0.007%;
+    color:black;
+  
+}
+.faq{
+    background-color: white;
+    padding-top: 0.007%;
+    color:black;
+  
+}

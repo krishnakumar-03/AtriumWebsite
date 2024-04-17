@@ -1,0 +1,36 @@
+.about-page header {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/about-page-header.jpg);
+    height:500px;
+}
+.container{
+    text-align: center;
+}
+.image1{
+    height: auto;
+    width: 400px;
+}
+
+.overlay {
+    background-color: rgba(255, 255, 255, 0.266);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+    width: auto;
+}
+.about-page .card-img {
+    height: 500px;
+    width: 415px;
+    max-height: 100%;
+}
+
+.about-page .card:hover {
+    cursor: pointer;
+}
+.text1{
+    text-shadow: 2px 2px black;
+}
+.text2{
+    color: black;
+} 

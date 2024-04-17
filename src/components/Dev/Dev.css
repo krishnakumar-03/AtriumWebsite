@@ -1,0 +1,27 @@
+.container{
+    text-align: center;
+}
+.overlay {
+    background-color: rgba(255, 255, 255, 0.266);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+    width: auto;
+}
+.dev-page .card-img {
+    height: 500px;
+    width: 415px;
+    max-height: 100%;
+}
+
+.dev-page .card:hover {
+    cursor: pointer;
+}
+.text1{
+    text-shadow: 2px 2px black;
+}
+.text2{
+    color: black;
+} 
